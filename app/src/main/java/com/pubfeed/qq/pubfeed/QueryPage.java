@@ -76,31 +76,44 @@ public class QueryPage extends Activity {
         protected String doInBackground(String... strings) {
 
             DocumentBuilderFactory documentBuilderFactory;
-            DocumentBuilder documentBuilder;
+            DocumentBuilder documentBuilder=null;
             Document document;
 
             String baseURL = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/";
             String url = baseURL + "esearch.fcgi?db=pubmed&term=asthma[mesh]&usehistory=y";
 
+            String baseURLFetch="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi";
+            String urlFetch=baseURLFetch+"?db=pubmed&id=";
+
             //pull relevant UIDs
 
-            ArrayList <String> uidList=new ArrayList<String>();
+            String uidList=null;
 
             try {
                 documentBuilderFactory = DocumentBuilderFactory.newInstance();
                 documentBuilder = documentBuilderFactory.newDocumentBuilder();
                 document = documentBuilder.parse(new URL(url).openStream());
 
-                Log.d("Test", "what");
-
                 NodeList nodeList = document.getElementsByTagName("Id");
 
                 Log.d("Test",""+nodeList.getLength());
 
+                uidList="";
+
                 for (int i = 0; i < nodeList.getLength(); i++) {
                     Node node = nodeList.item(i);
-                    uidList.add(node.getTextContent());
+                    uidList=uidList+node.getTextContent()+",";
                 }
+
+                uidList=uidList.substring(0,uidList.length()-1);
+
+                urlFetch=urlFetch+uidList+"&retmode=xml";
+
+                Log.d("Test",urlFetch);
+
+                document=documentBuilder.parse(new URL(urlFetch).openStream());
+
+                
 
             } catch (ParserConfigurationException e) {
                 e.printStackTrace();
@@ -111,42 +124,6 @@ public class QueryPage extends Activity {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
-//            ByteArrayOutputStream out=new ByteArrayOutputStream();
-//
-//            try {
-//                response.getEntity().writeTo(out);
-//                Log.d("test",out.toString());
-//                out.close();
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//
-//            Log.d("test", out.toString());
-
-//            try {
-//                DocumentBuilder db=DocumentBuilderFactory.newInstance().newDocumentBuilder();
-//                InputSource inputSource=new InputSource();
-//                inputSource.setCharacterStream(new StringReader(out.toString()));
-//
-//                Document UIDs=db.parse(inputSource);
-//                NodeList nodes=UIDs.getElementsByTagName("Id");
-//
-//                Log.d("Test","nodes are"+nodes.toString());
-//
-//                for(int i=0;i<nodes.getLength();i++){
-//                    org.w3c.dom.Element element=(org.w3c.dom.Element) nodes.item(i);
-//
-//                    NodeList name=element.getElementsByTagName()
-//                }
-//            } catch (ParserConfigurationException e) {
-//                e.printStackTrace();
-//            } catch (SAXException e) {
-//                e.printStackTrace();
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-
 
             return null;
         }
