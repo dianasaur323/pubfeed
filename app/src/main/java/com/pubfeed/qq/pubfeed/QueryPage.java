@@ -4,22 +4,13 @@ import android.app.Activity;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.provider.DocumentsContract;
-import android.renderscript.Element;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import org.apache.http.HttpResponse;
-import org.apache.http.HttpStatus;
-import org.apache.http.StatusLine;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.ResponseHandler;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.BasicResponseHandler;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.protocol.HTTP;
 import org.w3c.dom.Document;
+import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
@@ -96,8 +87,6 @@ public class QueryPage extends Activity {
 
                 NodeList nodeList = document.getElementsByTagName("Id");
 
-                Log.d("Test",""+nodeList.getLength());
-
                 uidList="";
 
                 for (int i = 0; i < nodeList.getLength(); i++) {
@@ -113,7 +102,54 @@ public class QueryPage extends Activity {
 
                 document=documentBuilder.parse(new URL(urlFetch).openStream());
 
-                
+                nodeList=document.getElementsByTagName("PubmedArticle");
+
+//                Log.d("Test",nodeList.item(0).getFirstChild().getAttributes().getNamedItem("Status").getTextContent());
+
+                for(int i=0;i<nodeList.getLength();i++){
+                    Node node=nodeList.item(i);
+                    Element element=(Element)node;
+
+                    Element medlineCitation=(Element) element.getElementsByTagName("MedlineCitation").item(0);
+
+                    //check medline status
+
+                    if(medlineCitation.getAttribute("Status").toString().equals("MEDLINE")){
+                        
+                    }
+
+//                    Element medLineCitationElement=(Element)element.getElementsByTagName("MedlineCitation");
+//                    medLineCitationElement.getAttributes();
+//                    Log.d("Test","medline attribute "+medLineCitationElement.getAttributes().toString());
+
+
+//                    Log.d("test","this many child nodes"+node.getChildNodes().getLength());
+//                    Log.d("Test","child node name "+node.getChildNodes().item(i));
+//                    Log.d("Test","this is the element name "+element.getName());
+
+//                    for(int j=0;j<node.getChildNodes().getLength();i++){
+//                        Log.d("Test","this many attributes"+node.getChildNodes().getLength());
+//                    }
+//
+//                    if(node.getNodeName()=="MedlineCitation"){
+//                        Log.d("Test","it's a medline citation");
+//                    }
+//
+//                    Log.d("Test","it's not a medline citation");
+
+                    //get status
+//
+//                    DocumentInformation docInfo=new DocumentInformation();
+//                    Node medlineCitation=node.getChildNodes().item(0);
+//                    Log.d("test",medlineCitation.getTextContent());
+//                    medlineCitation.getAttributes();
+//
+//                    Log.d("Test",docInfo.status);
+
+
+                }
+
+
 
             } catch (ParserConfigurationException e) {
                 e.printStackTrace();
@@ -127,5 +163,21 @@ public class QueryPage extends Activity {
 
             return null;
         }
+    }
+
+    class DocumentInformation{
+        String uid;
+        String dateCompleted;
+        String datePublished;
+        String status;
+        String journalIssue;
+        String articleTitle;
+        String abstractText;
+        ArrayList <String> authors;
+
+        DocumentInformation(){
+
+        }
+
     }
 }
