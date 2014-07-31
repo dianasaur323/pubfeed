@@ -107,6 +107,10 @@ public class QueryPage extends Activity {
 //                Log.d("Test",nodeList.item(0).getFirstChild().getAttributes().getNamedItem("Status").getTextContent());
 
                 for(int i=0;i<nodeList.getLength();i++){
+
+                    //create document information variable to store information
+                    DocumentInformation docInfo= new DocumentInformation();
+
                     Node node=nodeList.item(i);
                     Element element=(Element)node;
 
@@ -115,37 +119,10 @@ public class QueryPage extends Activity {
                     //check medline status
 
                     if(medlineCitation.getAttribute("Status").toString().equals("MEDLINE")){
-                        
+                        docInfo.uid=element.getElementsByTagName("PMID").item(0).getTextContent();
+
+                        Log.d("Test","uid is "+docInfo.uid);
                     }
-
-//                    Element medLineCitationElement=(Element)element.getElementsByTagName("MedlineCitation");
-//                    medLineCitationElement.getAttributes();
-//                    Log.d("Test","medline attribute "+medLineCitationElement.getAttributes().toString());
-
-
-//                    Log.d("test","this many child nodes"+node.getChildNodes().getLength());
-//                    Log.d("Test","child node name "+node.getChildNodes().item(i));
-//                    Log.d("Test","this is the element name "+element.getName());
-
-//                    for(int j=0;j<node.getChildNodes().getLength();i++){
-//                        Log.d("Test","this many attributes"+node.getChildNodes().getLength());
-//                    }
-//
-//                    if(node.getNodeName()=="MedlineCitation"){
-//                        Log.d("Test","it's a medline citation");
-//                    }
-//
-//                    Log.d("Test","it's not a medline citation");
-
-                    //get status
-//
-//                    DocumentInformation docInfo=new DocumentInformation();
-//                    Node medlineCitation=node.getChildNodes().item(0);
-//                    Log.d("test",medlineCitation.getTextContent());
-//                    medlineCitation.getAttributes();
-//
-//                    Log.d("Test",docInfo.status);
-
 
                 }
 
