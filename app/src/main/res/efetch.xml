@@ -1,0 +1,3223 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24980021</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0301-1208</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>51</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Indian journal of biochemistry &amp; biophysics</Title>
+                <ISOAbbreviation>Indian J. Biochem. Biophys.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A study on human leukocyte antigen class I molecules in paediatric bronchial asthma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>160-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Childhood asthma, often associated with atopy, is more common in boys and may persist throughout life in 50% of cases. This case-control study was carried out to examine if any association of paediatric bronchial asthma with human leukocyte antigen (HLA) class I antigens. Thirty-six children with bronchial asthma diagnosed on basis of Global Initiative for Asthma (GINA) criteria and an equal number of healthy controls without history of bronchial asthma were studied. Low resolution HLA- ABC typing was performed by sequence specific primers (SSP) and the frequency of HLA-ABC antigens in the two groups was compared. Total serum immunoglobulin E (IgE) estimation was done as a marker of atopy by ELISA. The study included 24 boys and 12 girls aged 13 months to 11 yrs, of which 16 (44%) had positive family history. Serum IgE levels were elevated in 20 (55%) of the cases and 33% of controls with peak values of 4877 and 627 IU/ml, respectively. No statistically significant correlation was observed between childhood asthma and HLA class I antigens, however, a statistically significant correlation was observed between serum IgE levels and asthma, which was elevated in cases, as compared to normal population. Serum IgE levels did not show a linear trend, in that a direct correlation with the severity of disease was not observed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mishra</LastName>
+                    <ForeName>Mahendra N</ForeName>
+                    <Initials>MN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudeja</LastName>
+                    <ForeName>Puja</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Rakesh K</ForeName>
+                    <Initials>RK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Indian J Biochem Biophys</MedlineTA>
+            <NlmUniqueID>0310774</NlmUniqueID>
+            <ISSNLinking>0301-1208</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class I</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24980021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24956644</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1438-3276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>156</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Apr</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>MMW Fortschritte der Medizin</Title>
+                <ISOAbbreviation>MMW Fortschr Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Even without smoking. Children with severe asthma are at risk for later COPD].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>24</MedlinePgn>
+            </Pagination>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>News</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Auch ohne Rauchen. Kindern mit schwerem Asthma droht spätere COPD.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>MMW Fortschr Med</MedlineTA>
+            <NlmUniqueID>100893959</NlmUniqueID>
+            <ISSNLinking>1438-3276</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Australia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Smoking</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24956644</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24946644</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0255-2930</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhongguo zhen jiu = Chinese acupuncture &amp; moxibustion</Title>
+                <ISOAbbreviation>Zhongguo Zhen Jiu</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Effects of natural moxibustion on cytokines and specific transcription factors in asthma rats].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>379-83</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore the mechanism of natural moxibustion on regulating immune imbalance in asthma rats.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Seventy SD male rats were divided into a normal group, a placebo group, a dexamethasone group, a big-cake for long-course moxibustion group, a big-cake for short-course moxibustion group, a small-cake for long-course moxibustion group and a small-cake for short-course moxibustion group, ten rats in each one. The rat model of asthma was established by egg albumen sensitization and stimulation in all the groups except the normal group. The natural moxibustion was used in all moxibustion groups, in which big cake of 1 cmX 1 cm size was used in the big-cake groups and small cake of 0.5 cmX 0. 5 cm size was used in the small cake groups. According to relevant acupoints, the natural moxibustion was performed, 5 h per time, once a day. Four times of treatment was considered one course, and three courses were required in the long-course groups and one course was required in the short-course groups. Intraperitoneal injection of dexamethasone was applied in the dexamethasone group, which had the same course as long-course moxibustion group. After the treatment, changes of EOS in peripheral blood of asthma rats were observed; enzyme linked immunosorbent assay (ELISA) was applied to test the contents of IgE, IL-4 and IFN-gamma in the lung tissue; real-time Q-PCR method was adopted to measure the expression level of transcription factor T-bet and GATA binding protein 3 (GATA-3) in the lung tissue.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared with the normal group, the EOS in whole blood as well as IL-4 and IgE in plasma were all increased in the placebo group (all P&lt; 0. 01), IFN-gamma in plasma was obviously decreased (P&lt;0. 01); while the levels of EOS, IgE and IL-4 were significantly reduced (all P&lt;0. 01), the content of IFN-gamma was increased (P&lt;0. 01) in all moxibustion groups and dexametnasone group. Compared with the normal group, the expression of T-bet mRNA in the placebo group was significantly reduced (P&lt;0. 01). Each treatment group could significantly increase the expression of T-bet mRNA and reduce that of GATA-3 mRNA (P&lt;0. 01). Compared with the short-course moxibustion groups, the expression of T-bet mRNA was obviously increased in the long-course moxibustion group and dexamethasone group (both P&lt;0.01), and that of GATA-3 mRNA was reduced (P&lt;0.01). There was no significant difference between long-course moxibustion group and dexamethasone group (P&gt; 0. 05), and also no significant difference could be seen between big-cake moxibustion group and small-cake moxibustion group (P&gt;0. 05).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The natural moxibustion could obviously reduce airway inflammation in asthma rats. With time passing, the efficacy is enhanced, indicating evident timeliness, which has no apparent relationship with the size of moxibustion cake.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yue-Mei</ForeName>
+                    <Initials>YM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ling</LastName>
+                    <ForeName>Cui-Min</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhongguo Zhen Jiu</MedlineTA>
+            <NlmUniqueID>8600658</NlmUniqueID>
+            <ISSNLinking>0255-2930</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transcription Factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Moxibustion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24946644</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24941704</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1096-2247</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the Air &amp; Waste Management Association (1995)</Title>
+                <ISOAbbreviation>J Air Waste Manag Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Childhood asthma acute primary care visits, traffic, and traffic-related pollutants.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>561-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Previous studies have found associations between traffic-related air pollution and asthma exacerbation in children, where exacerbations were measured according to emergency department visits and hospital admissions. Fewer studies have been undertaken that look at asthma exacerbations in a less severe primary care setting. Therefore, the authors sought to examine the associations between childhood asthma exacerbations, measured as acute visits to a primary care setting, and vehicular-traffic measures in a population of children aged 18 and under in the metropolitan Atlanta area. Statistical tests for differences of mean monthly visits for members with traffic measures above the median compared with below the median and for the upper quartile compared with the lower quartile were conducted. We also compared the odds of having one or more visits in a month for those who lived closer to a major roadway were compared with those who lived farther (greater than 300 m) from a major roadway. Poisson general linear modeling was used to determine associations between daily levels of acute visits for childhood asthma and traffic-related pollutants (zinc, EC [elemental carbon], and PM10 and PM2.5 [particulate matter with an aerodynamic diameter of &lt; or = 10 and &lt; or = 2.5 microm, respectively]) for different levels of traffic and distance measures. This analysis found that both larger traffic volumes and smaller distances to the nearest major roadway were positively and significantly associated with larger numbers of childhood asthma visits, when compared with less traffic and larger distances. Our findings point to motor vehicle traffic as an important contributor to childhood asthma exacerbations.</AbstractText>
+                <AbstractText Label="IMPLICATIONS" NlmCategory="CONCLUSIONS">Previous studies have found associations between traffic-related air pollution and asthma exacerbation in children. However, these studies were mainly conducted in emergency department or hospital admission settings; little is known regarding less acute health effects. This analysis of the association between vehicular traffic measures and childhood asthma in a primary care setting suggests that motor vehicle traffic is a contributor to less acute asthma episodes in children. The present analysis of traffic-related air pollutants and childhood asthma were less conclusive, likely due to methods limitations outlined in the paper. The implication is that further evidence of adverse respiratory health effects in children due to motor vehicle traffic can be found in a primary care setting and similar studies should be considered.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sinclair</LastName>
+                    <ForeName>Amber H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melly</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tolsma</LastName>
+                    <ForeName>Dennis</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spengler</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perkins</LastName>
+                    <ForeName>Lauren</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rohr</LastName>
+                    <ForeName>Annette</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wyzga</LastName>
+                    <ForeName>Ronald</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Air Waste Manag Assoc</MedlineTA>
+            <NlmUniqueID>9503111</NlmUniqueID>
+            <ISSNLinking>1096-2247</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Air Pollutants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Particulate Matter</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vehicle Emissions</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Air Pollutants</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Georgia</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Particle Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Particulate Matter</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Primary Health Care</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vehicle Emissions</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24941704</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24941620</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1259-4792</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Issue>278</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 May-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Soins. Pédiatrie, puériculture</Title>
+                <ISOAbbreviation>Soins Pediatr Pueric</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The effect of anti-tobacco laws on the reduction of premature birth].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roublev</LastName>
+                    <ForeName>Anastasia</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>fre</Language>
+            <PublicationTypeList>
+                <PublicationType>News</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Les effets des lois anti-tabac sur la baisse de la prématurité.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Soins Pediatr Pueric</MedlineTA>
+            <NlmUniqueID>9604503</NlmUniqueID>
+            <ISSNLinking>1259-4792</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tobacco Smoke Pollution</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>N</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Meta-Analysis as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Premature Birth</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Public Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Public Policy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Smoking</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tobacco Smoke Pollution</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24941620</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24937943</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0350-199X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical archives (Sarajevo, Bosnia and Herzegovina)</Title>
+                <ISOAbbreviation>Med Arch</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Anesthetic management of hysterosalpingooophorectomy in a case with severe idiopathic dilated cardiomyopathy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>144-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Idiopathic dilated cardiomyopathy is a primary myocardial disease with unknown aetiology. This disease follows a prospective course that is characterized by ventricular dilation and impaired myocardial dilation. Congestive heart failure and malignant arrhythmias are the most widespread complications. The incidence of idiopathic dilated cardiomyopathy in the general population is 5-8/100.000. Because of the increased risks of perioperative complications, anesthetic management of this disease requires the application of a specific technique. This case report demonstrates the application of successful regional anesthetic management (thoracic epidural anesthesia) in a patient who had been diagnosed with severe idiopathic dilated cardiomyopathy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kaya</LastName>
+                    <ForeName>Cengiz</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koksal</LastName>
+                    <ForeName>Ersin</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ustun</LastName>
+                    <ForeName>Yasemin Burcu</ForeName>
+                    <Initials>YB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Semizoglu</LastName>
+                    <ForeName>Yasemin</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yilmaz</LastName>
+                    <ForeName>Nurullah</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Bosnia and Hercegovina</Country>
+            <MedlineTA>Med Arch</MedlineTA>
+            <NlmUniqueID>101635337</NlmUniqueID>
+            <ISSNLinking>0350-199X</ISSNLinking>
+        </MedlineJournalInfo>
+        <SupplMeshList>
+            <SupplMeshName Type="Disease">Idiopathic dilation cardiomyopathy</SupplMeshName>
+        </SupplMeshList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anesthesia, Epidural</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cardiomyopathy, Dilated</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diagnostic Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hysteroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Ovariectomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Salpingectomy</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24937943</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24937928</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0350-199X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical archives (Sarajevo, Bosnia and Herzegovina)</Title>
+                <ISOAbbreviation>Med Arch</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hypersensitivity to aeroallergens in patients with nasobronchial allergy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>86-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Aeroallergens are the most common causes of allergy.</AbstractText>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim of this study was to determine hypersensitivity to aeroallergens in patients with nasobronchial allergy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This retrospective population study included 2254 patients with nasobronchial allergy, from late adolescents to adults. Their response to aeroallergens was assessed by skin prick tests.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">More patients had rhinitis (72.7%), than asthma (27.6%). Although majority of patients were female, allergy is more common in men than in women (p &lt; 0.05). Both groups of patients had the greatest number of positive skin prick tests for Dermatophagoides pteronyssinus (27.5%) and weed pollens (21.9%), followed by grass (18.3%) and tree pollens (10.1%). Ragweed is the most common positive weed pollen in both groups, more in patients with rhinitis (p = 0.022). The cocksfoot is the most common grass pollen in rhinitis group (15.3%), but meadow grass (12.6%) in asthma patients. Birch is the most common tree allergen in the both groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">More patients with nasobronchial allergy have rhinitis than asthma. Skin prick tests are usually positive for Dermatophagoides pteronyssinus and weed pollens, followed by grass and tree pollens, and they are more common positive in patients with rhinitis than asthma.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balaban</LastName>
+                    <ForeName>Jagoda</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bijelic</LastName>
+                    <ForeName>Radojka</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milicevic</LastName>
+                    <ForeName>Snjezana</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Bosnia and Hercegovina</Country>
+            <MedlineTA>Med Arch</MedlineTA>
+            <NlmUniqueID>101635337</NlmUniqueID>
+            <ISSNLinking>0350-199X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Dermatophagoides</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Dermatophagoides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pollen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sex Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Tests</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24937928</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24934041</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1438-3276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>156</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                        <Day>6</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>MMW Fortschritte der Medizin</Title>
+                <ISOAbbreviation>MMW Fortschr Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Inhaled corticosteroids. Essential in asthma, problematic in COPD].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26</MedlinePgn>
+            </Pagination>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>News</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Inhalative Kortikosteroide. Essenziell bei Asthma, problematisch bei COPD.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>MMW Fortschr Med</MedlineTA>
+            <NlmUniqueID>100893959</NlmUniqueID>
+            <ISSNLinking>1438-3276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Adrenal Cortex Hormones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Asthmatic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Delayed-Action Preparations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ethanolamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5ZZ84GCW8B</RegistryNumber>
+                <NameOfSubstance>formoterol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Administration, Inhalation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adrenal Cortex Hormones</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">contraindications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Asthmatic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">contraindications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Delayed-Action Preparations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ethanolamines</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Long-Term Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Medication Adherence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Opportunistic Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pneumonia, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24934041</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24930233</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1438-3276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>156</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>May</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>MMW Fortschritte der Medizin</Title>
+                <ISOAbbreviation>MMW Fortschr Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Allergic asthma-- what's new?].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>53-4</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barczok</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Differenzierung der Asthmaformen, neue Therapieoptionen. Frischer Wind beim allergischen Asthma.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>MMW Fortschr Med</MedlineTA>
+            <NlmUniqueID>100893959</NlmUniqueID>
+            <ISSNLinking>1438-3276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Asthmatic Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Asthmatic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">General Practice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Germany</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Long-Term Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Perennial</DescriptorName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Seasonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24930233</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24915679</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0954-7762</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>110</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 May 7-13</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nursing times</Title>
+                <ISOAbbreviation>Nurs Times</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nurses need better training in asthma to prevent deaths.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ford</LastName>
+                    <ForeName>Steve</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>News</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nurs Times</MedlineTA>
+            <NlmUniqueID>0423236</NlmUniqueID>
+            <ISSNLinking>0954-7762</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>N</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName MajorTopicYN="Y">nursing</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Education, Nursing, Continuing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Great Britain</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24915679</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24915671</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0954-7762</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>110</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 May 14-20</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nursing times</Title>
+                <ISOAbbreviation>Nurs Times</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>National review of asthma deaths: implications.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>17</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sherrington</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nurs Times</MedlineTA>
+            <NlmUniqueID>0423236</NlmUniqueID>
+            <ISSNLinking>0954-7762</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>N</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName MajorTopicYN="Y">nursing</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Great Britain</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mortality</DescriptorName>
+                <QualifierName MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24915671</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24913001</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>61</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Unilateral pulmonary artery agenesis with ipsilateral pulmonary hypoplasia as incidental finding in an asthmatic patient].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Unilateral absence of a pulmonary artery is an uncommon congenital heart disease. It can be related to respiratory symptoms such as asthma, an unusual finding in some of these patients. This paper reports the case of a 4-year-old male with recurrent respiratory infections and asthma symptoms, in who further studies found agenesia of right pulmonary artery with pulmonary hypoplasia of the same side.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Contreras-Arias</LastName>
+                    <ForeName>Catalina</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Universidad CES, Medellín, Colombia. cdserranoreyes@gmail.com.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duarte</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramírez</LastName>
+                    <ForeName>Luis F</ForeName>
+                    <Initials>LF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serrano</LastName>
+                    <ForeName>Carlos D</ForeName>
+                    <Initials>CD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Agenesia de la arteria pulmonar derecha con hipoplasia pulmonar ipsilateral como hallazgo incidental en un paciente con asma.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Asthmatic Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Asthmatic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Collateral Circulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Susceptibility</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dyspnea</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Forced Expiratory Volume</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Incidental Findings</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName MajorTopicYN="N">abnormalities</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Physical Exertion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pulmonary Artery</DescriptorName>
+                <QualifierName MajorTopicYN="Y">abnormalities</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pulmonary Atelectasis</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Tract Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Language="spa" Type="Publisher">
+            <AbstractText>Abstract available from the publisher.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Asthma</Keyword>
+            <Keyword MajorTopicYN="N">Pulmonary circulation abnormalities</Keyword>
+            <Keyword MajorTopicYN="N">Respiratory system</Keyword>
+            <Keyword MajorTopicYN="N">Unilateral pulmonary artery agenesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24913001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24912997</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>61</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Sensitization to Casuarina equisetifolia and Pinus spp pollen in patients with allergic rhinitis and asthma in Mexico City].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9-13</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Pollinosis studies at Mexico City have found a considerable amount of Casuarina equisetifolia and Pinus spp pollen, its sensitization frequency is unknown. In Mexico, some allergens are not considered related to asthma or allergic rhinitis, even though reports in other countries have been demonstrated their relevance as aeroallergens.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To estimate the frequency of sensitization to Casuarina equisetifolia and Pinus spp pollen.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHOD" NlmCategory="METHODS">A transversal, descriptive trial was done at Hospital General de Mexico. Previous informed consent 142 patients with allergic rhinitis and asthma, 3 to 55 years old, were included to the study. A complete clinical evaluation, laboratory tests and skin prick tests were performed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We included 142 patients, 44 children (64% males) and 98 adults (73% females). We found that 8 (18.18%) children and 35 (35.7%) adults had a positive skin prick test to Casuarina equisetifolia. None of the patients included in the study had a positive skin prick test to Pinus spp.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Sensitization to Casuarina equisetifolia is as important as other pollens found in Mexico City. These results suggest that it should be included when skin prick tests are performed. Pinus spp pollen is considered an aeroallergen in European countries but we did not corroborate sensitization in our population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Velasco-Medina</LastName>
+                    <ForeName>Andrea Aida</ForeName>
+                    <Initials>AA</Initials>
+                    <Affiliation>Servicio de Alergia e Inmunología Clínica, Hospital General de México. Dr. Balmis 148, 06720 México, DF. a2velascom@gmail.com.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velázquez-Sámano</LastName>
+                    <ForeName>Guillermo</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Sensibilización al polen de Casuarina equisetifolia y Pinus spp en pacientes con rinitis alérgica y asma en la Ciudad de México.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryophyta</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intradermal Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Mexico</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pinus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pollen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Seasonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trees</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urban Population</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Language="spa" Type="Publisher">
+            <AbstractText>Abstract available from the publisher.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Allergic rhinitis</Keyword>
+            <Keyword MajorTopicYN="N">Asthma</Keyword>
+            <Keyword MajorTopicYN="N">Casuarina equisetifolia</Keyword>
+            <Keyword MajorTopicYN="N">Pinus spp.</Keyword>
+            <Keyword MajorTopicYN="N">Pollen</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24912997</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24912996</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>61</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Correlation between the magnitude of skin prick test reactivity and pollen-specific serum IgE levels in patients with respiratory allergy].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">For the etiological diagnosis of allergic respiratory diseases skin tests or specific serum IgE determination are used.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the correlation between the extent of reactivity to cutaneous prick tests and the levels of pollen specific serum IgE in patients with respiratory allergy.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">A prolective, descriptive and transversal study was done with patients of both genders, aged 2 to 60 years, who attended for the first time at the service of Allergy and Clinical Immunology of University Hospital of Puebla, Mexico, with presumptive diagnosis of respiratory allergy. All patients underwent clinical history, skin prick tests with standardized allergenic extracts and quantification of pollen specific serum IgE by chemiluminescence method. We estimated the correlation index r using the statistical method Pearson product-moment correlation coefficient; a value r equal to or higher than 0.70 was considered a significant relationship or a high correlation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Nine-one patients were included, of whom 58.2% were female. The diagnoses were: allergic rhinitis (79.1%), asthma and allergic rhinitis (16.5%) and only asthma (4.4%). Only significant correlation was found in patients with allergic rhinitis for Rumex crispus (r = 0.702) and in patients with asthma and rhinitis for Ambrosia trifida (r = 1).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Only for Rumex crispus and Ambrosia trifida, the skin prick tests or the determination of specific serum IgE levels are comparable diagnostic methods of allergic respiratory diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tlachi-Corona</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Hospital Universitario de Puebla, Puebla, México. dra_lauracorona@hotmail.com.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caballero-López</LastName>
+                    <ForeName>Chrystopherson Gengyny</ForeName>
+                    <Initials>CG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>López-García</LastName>
+                    <ForeName>Aída Inés</ForeName>
+                    <Initials>AI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papaqui-Tapia</LastName>
+                    <ForeName>Sergio</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arana-Muñoz</LastName>
+                    <ForeName>Oswaldo</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carcaño-Pérez</LastName>
+                    <ForeName>María Socorro Yolanda</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marín-Marín</LastName>
+                    <ForeName>Araceli</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garrido-Priego</LastName>
+                    <ForeName>Fabiola</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Correlación entre la magnitud de la reactividad cutánea por punción y las concentraciones de IgE sérica específica a pólenes en pacientes con alergia respiratoria.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Angiosperms</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibody Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Intradermal Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Luminescent Measurements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pinus</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pollen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Seasonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Language="spa" Type="Publisher">
+            <AbstractText>Abstract available from the publisher.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Correlation</Keyword>
+            <Keyword MajorTopicYN="N">Pollens</Keyword>
+            <Keyword MajorTopicYN="N">Respiratory allergies</Keyword>
+            <Keyword MajorTopicYN="N">Skin prick tests</Keyword>
+            <Keyword MajorTopicYN="N">Specific serum IgE</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24912996</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24912911</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>60</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2013 Oct-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[ARIA (Allergic Rhinitis and its Impact on Asthma). Achievements in 10 years and future needs in Latin America].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>184-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Allergic rhinitis and asthma represent global problems of public health affecting all age groups; asthma and allergic rhinitis frequently coexist in the same patients. In Latin American prevalence of allergic rhinitis, although variable, is very high. Allergic rhinitis and its Impact on Asthma (ARIA) started during a workshop of the World Health Organization performed in 1999 and was published in 2001. ARIA proposed a new classification of allergic rhinitis in intermittent or persistent and mild or moderate-severe. This approach of classification reflects more nearly the impact of allergic rhinitis in patients. In its review of 2010 ARIA developed guidelines for diagnosis and treatment of allergic rhinitis and of clinical practices for management of comorbidities of allergic rhinitis and asthma based on GRADE (Grading of Recommendations, Development and Evaluation). ARIA has been spread and implemented in more than 50 countries. In Latin American an intense activity has been developed to spread these recommendations in almost all the countries of the region and it is important to record the obtained goals in the diffusion and implementation of ARIA, as well as to identify the unsatisfied needs from the clinical, research and implementation points of view. Final objective is to reinforce the priority that allergy and asthma should have, especially in children, in the programs of public health, as they have been prioritized in European Union in 2011.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Baena-Cagnani</LastName>
+                    <ForeName>Carlos E</ForeName>
+                    <Initials>CE</Initials>
+                    <Affiliation>CIMER. Centro de Investigación en Medicina, Facultad de Medicina, Universidad Católica de Córdoba. División Respiratoria, Hospital Pediátrico, Córdoba, Argentina. Fundación LIBRA. Buenos Aires, Argentina.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez-Borges</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zernotti</LastName>
+                    <ForeName>Mario E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Larenas-Linnemann</LastName>
+                    <ForeName>Désireé</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cruz</LastName>
+                    <ForeName>Alvaro A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González-Díaz</LastName>
+                    <ForeName>Sandra N</ForeName>
+                    <Initials>SN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ivancevich</LastName>
+                    <ForeName>Juan C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aldrey-Palacios</LastName>
+                    <ForeName>Oscar</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sisul</LastName>
+                    <ForeName>Juan C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solé</LastName>
+                    <ForeName>Dirceu</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cepeda</LastName>
+                    <ForeName>Alfonso M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jares</LastName>
+                    <ForeName>Edgardo J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calvo Gil</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valentin-Rostán</LastName>
+                    <ForeName>Marylin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yáñez</LastName>
+                    <ForeName>Anahí</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gereda</LastName>
+                    <ForeName>José</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardona-Villa</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosario</LastName>
+                    <ForeName>Nelson</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Croce</LastName>
+                    <ForeName>Víctor H</ForeName>
+                    <Initials>VH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bachert</LastName>
+                    <ForeName>Claus</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canonica</LastName>
+                    <ForeName>G Walter</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demoly</LastName>
+                    <ForeName>Pascal</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Passalacqua</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samolinski</LastName>
+                    <ForeName>Boleslaw</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schünemann</LastName>
+                    <ForeName>Holger J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yorgancioglu</LastName>
+                    <ForeName>Arzu</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ansotegui</LastName>
+                    <ForeName>Ignacio J</ForeName>
+                    <Initials>IJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khaltaev</LastName>
+                    <ForeName>Nikolai</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bedbrook</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zuberbier</LastName>
+                    <ForeName>Torsten</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bousquet</LastName>
+                    <ForeName>Jean</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>ARIA (Rinitis Alérgica y su Impacto en Asma). Logros en 10 años y necesidades futuras en América Latina.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+        </MedlineJournalInfo>
+        <SupplMeshList>
+            <SupplMeshName Type="Disease">Allergic Rhinitis</SupplMeshName>
+        </SupplMeshList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergy and Immunology</DescriptorName>
+                <QualifierName MajorTopicYN="Y">organization &amp; administration</QualifierName>
+                <QualifierName MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Congresses as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Expert Testimony</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Forecasting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Government</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Health Policy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Health Services Needs and Demand</DescriptorName>
+                <QualifierName MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Latin America</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Practice Guidelines as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Private Sector</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Perennial</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Societies, Medical</DescriptorName>
+                <QualifierName MajorTopicYN="Y">organization &amp; administration</QualifierName>
+                <QualifierName MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">World Health Organization</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Language="spa" Type="Publisher">
+            <AbstractText>Abstract available from the publisher.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ARIA</Keyword>
+            <Keyword MajorTopicYN="N">Allergy</Keyword>
+            <Keyword MajorTopicYN="N">Asthma</Keyword>
+            <Keyword MajorTopicYN="N">GRADE</Keyword>
+            <Keyword MajorTopicYN="N">Guidelines</Keyword>
+            <Keyword MajorTopicYN="N">Rhinitis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24912911</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24912906</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-5151</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>60</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2013 Oct-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)</Title>
+                <ISOAbbreviation>Rev Alerg Mex</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Association between unplanned pregnancy and adolescence onset asthma].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>152-60</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The association between asthma and pregnancy has been documented previously. The relationship between unplanned pregnancy and onset asthma in adolescence has not been studied.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the association between unplanned pregnancy and adolescence onset asthma.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">A cross-sectional study was done gathering information about asthma, unplanned pregnancy, family atopy and active or passive smoking in 3,130 adolescents aged 13-19 years. Asthma diagnosis was established through a selfquestionnaire based on the International Study of Asthma and Allergy in Childhood. Odds ratios for asthma were determined using logistic regression model and chi-squared test.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean age of the participants was 16.37 ± 1.93 years. The prevalence of active smoking was 16.1%, of passive smoking 40% and of family atopy 9.8%. From the pregnant adolescents (785), 59.5% reported had planned not to have a child before pregnancy. Prevalence of wheezing during the year prior to the study was 9.3% and of wheezing during the pregnancy 2%. The prevalence of adolescence onset asthma was 5.4%. The age of initiation of asthma in the adolescence was 14.75 ± 1.60 years. The analysis showed that unplanned pregnancy has a slight risk for the development of asthma during adolescence. (Crude OR=1.03; CI 95% 1.02-1.05; p=0.000).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Unplanned pregnancy, family atopy, active smoking and smoking friends are associated with the onset-asthma in the adolescence.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vázquez-Nava</LastName>
+                    <ForeName>Francisco</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Departamento de Investigación, Facultad de Medicina, Universidad. Autónoma de Tamaulipas, Tampico, Tamaulipas. fvazqueznava@yahoo.com.mx.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gil-Lara</LastName>
+                    <ForeName>Bertoldo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cruz-Torres</LastName>
+                    <ForeName>Leoncio</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vázquez-Rodríguez</LastName>
+                    <ForeName>Carlos F</ForeName>
+                    <Initials>CF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vázquez-Rodríguez</LastName>
+                    <ForeName>Eliza M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Felizardo-Ávalos</LastName>
+                    <ForeName>Jorge</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Llanes-Castillo</LastName>
+                    <ForeName>Arturo</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Córdova-Fernández</LastName>
+                    <ForeName>José A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Asociación entre embarazo no planeado y asma de inicio en la adolescencia.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Mexico</Country>
+            <MedlineTA>Rev Alerg Mex</MedlineTA>
+            <NlmUniqueID>9438824</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tobacco Smoke Pollution</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Age of Onset</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Family Characteristics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Complications</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pregnancy in Adolescence</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pregnancy, Unplanned</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Sounds</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Smoking</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Socioeconomic Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tobacco Smoke Pollution</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urban Population</DescriptorName>
+                <QualifierName MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Language="spa" Type="Publisher">
+            <AbstractText>Abstract available from the publisher.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescence</Keyword>
+            <Keyword MajorTopicYN="N">Asthma</Keyword>
+            <Keyword MajorTopicYN="N">Unplanned pregnancy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24912906</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24912260</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1438-3276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>156</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>MMW Fortschritte der Medizin</Title>
+                <ISOAbbreviation>MMW Fortschr Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[When children won't adhere to inhaled corticosteroids, perhaps the family physician to blame].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>31</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reinhardt</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>News</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Wenn Kinder ICS nicht nehmen, ist vielleicht der Hausarzt schuld.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>MMW Fortschr Med</MedlineTA>
+            <NlmUniqueID>100893959</NlmUniqueID>
+            <ISSNLinking>1438-3276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Adrenal Cortex Hormones</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Administration, Inhalation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adrenal Cortex Hormones</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Administration Schedule</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Family Practice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Long-Term Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Medication Adherence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Physician's Practice Patterns</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Tract Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24912260</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24912253</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1438-3276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>156</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>MMW Fortschritte der Medizin</Title>
+                <ISOAbbreviation>MMW Fortschr Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Nearly uncontrollable hyperreactivity. Last options in bronchial asthma].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>17</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Füesl</LastName>
+                    <ForeName>H S</ForeName>
+                    <Initials>HS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stiefelhagen</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>News</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Kaum beherrschbare Spastik. Letzte Optionen bei Asthma bronchiale.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>MMW Fortschr Med</MedlineTA>
+            <NlmUniqueID>100893959</NlmUniqueID>
+            <ISSNLinking>1438-3276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Asthmatic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Anti-Idiotypic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal, Humanized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>omalizumab</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Asthmatic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Anti-Idiotypic</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal, Humanized</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchial Hyperreactivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Desensitization, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Drug Resistance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Medication Adherence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24912253</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24908960</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1019-5297</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <MedlineDate>2014 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Likars'ka sprava / Ministerstvo okhorony zdorov'ia Ukraïny</Title>
+                <ISOAbbreviation>Lik. Sprava</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Non-specific bronchial hyper-responsiveness and polymorphysm of xenobiotics biotransformation GSTM1 and GSTT1 genes under neutrophilic bronchial asthma in children].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>50-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>With a view to study the effect of genes GSTT1 and GSTM1 deletion on the non-specific bronchial hyperresponsiveness in children with neutrophilic bronchial asthma (BA) 46 school age children having neutrophilic BA (1st clinical group) and their 48 coevals with eosinophilic phenotype of the disease (2nd clinical group) were subjected to a complex examination at the pulmo-allergologic department of the regional child clinical hospital of Chernivtsi. The study proved that genotype T1+M1del was more frequently registered in patients with the neutrophilic phenotype of the disease, and genotype T1delM1del was equifrequent in patients with different types of the inflammation of the respiratory ways. In patients with neutrophilic BA and deletion polymorphism of genes GSTT1 and GSTM1, there was a tendency to decreasing of the bronchial lability index through the decrease of bronchodilation, and bronchial response to histamine occurred to be higher than in children with the absence of polymorphism of the referred genes of the xenobiotics biotransformation system.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ivanova</LastName>
+                    <ForeName>L A</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mykaliuk</LastName>
+                    <ForeName>L V</ForeName>
+                    <Initials>LV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hryhola</LastName>
+                    <ForeName>O H</ForeName>
+                    <Initials>OH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ukr</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ukraine</Country>
+            <MedlineTA>Lik Sprava</MedlineTA>
+            <NlmUniqueID>9601540</NlmUniqueID>
+            <ISSNLinking>1019-5297</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Xenobiotics</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.1.-</RegistryNumber>
+                <NameOfSubstance>glutathione S-transferase T1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.1.18</RegistryNumber>
+                <NameOfSubstance>Glutathione Transferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.1.18</RegistryNumber>
+                <NameOfSubstance>glutathione S-transferase M1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biotransformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchial Hyperreactivity</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchoconstriction</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eosinophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Frequency</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glutathione Transferase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocyte Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mucus</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Polymorphism, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sputum</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Xenobiotics</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacokinetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24908960</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24908765</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1438-3276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>156</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                        <Day>6</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>MMW Fortschritte der Medizin</Title>
+                <ISOAbbreviation>MMW Fortschr Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Inhaled steroids increase the risk of pneumonia in asthmatics].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>30</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Füessl</LastName>
+                    <ForeName>H S</ForeName>
+                    <Initials>HS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>Comment</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Inhalative Steroide erhöhen das Pneumonierisiko von Asthmatikern.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>MMW Fortschr Med</MedlineTA>
+            <NlmUniqueID>100893959</NlmUniqueID>
+            <ISSNLinking>1438-3276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Adrenal Cortex Hormones</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Chest. 2013 Dec;144(6):1788-94</RefSource>
+                <PMID Version="1">23990003</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adrenal Cortex Hormones</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pneumonia</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24908765</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

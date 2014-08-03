@@ -119,9 +119,27 @@ public class QueryPage extends Activity {
                     //check medline status
 
                     if(medlineCitation.getAttribute("Status").toString().equals("MEDLINE")){
+
+                        //set relevant class parameters
+                        docInfo.status=medlineCitation.getAttribute("Status").toString();
                         docInfo.uid=element.getElementsByTagName("PMID").item(0).getTextContent();
 
-                        Log.d("Test","uid is "+docInfo.uid);
+                        //find the year and then add on date and month
+
+                        String medlineCitationDate= ((Element) element.getElementsByTagName("DateCompleted").item(0)).getElementsByTagName("Year").item(0).getTextContent();
+                        medlineCitationDate=medlineCitationDate+((Element) element.getElementsByTagName("DateCompleted").item(0)).getElementsByTagName("Month").item(0).getTextContent();
+                        medlineCitationDate=medlineCitationDate+((Element) element.getElementsByTagName("DateCompleted").item(0)).getElementsByTagName("Day").item(0).getTextContent();
+                             
+                        Log.d("Test",""+medlineCitationDate);
+
+                        //flip through to get date
+                        for(int k=0;k<3;k++){
+//                            docInfo.dateCompleted=docInfo.dateCompleted+medlineCitationChildren.item(k).getTextContent();
+                        }
+
+//                        Log.d("Test",docInfo.dateCompleted);
+
+
                     }
 
                 }
