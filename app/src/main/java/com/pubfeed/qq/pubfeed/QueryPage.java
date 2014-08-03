@@ -124,22 +124,21 @@ public class QueryPage extends Activity {
                         docInfo.status=medlineCitation.getAttribute("Status").toString();
                         docInfo.uid=element.getElementsByTagName("PMID").item(0).getTextContent();
 
-                        //find the year and then add on date and month
+                        //find the year and then add on date and month to fill out date completed
 
                         String medlineCitationDate= ((Element) element.getElementsByTagName("DateCompleted").item(0)).getElementsByTagName("Year").item(0).getTextContent();
                         medlineCitationDate=medlineCitationDate+((Element) element.getElementsByTagName("DateCompleted").item(0)).getElementsByTagName("Month").item(0).getTextContent();
                         medlineCitationDate=medlineCitationDate+((Element) element.getElementsByTagName("DateCompleted").item(0)).getElementsByTagName("Day").item(0).getTextContent();
-                             
-                        Log.d("Test",""+medlineCitationDate);
 
-                        //flip through to get date
-                        for(int k=0;k<3;k++){
-//                            docInfo.dateCompleted=docInfo.dateCompleted+medlineCitationChildren.item(k).getTextContent();
-                        }
+                        docInfo.dateCompleted=medlineCitationDate;
 
-//                        Log.d("Test",docInfo.dateCompleted);
+                        //find the year and then add on date and month to fill out date published
 
+                        String medlineCitationPubDate=((Element) element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("Year").item(0).getTextContent();
+                        medlineCitationPubDate=medlineCitationPubDate+((Element) element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("Month").item(0).getTextContent();
+                        medlineCitationPubDate=medlineCitationPubDate+((Element) element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("Day").item(0).getTextContent();
 
+                        docInfo.dateCompleted=medlineCitationPubDate;
                     }
 
                 }
