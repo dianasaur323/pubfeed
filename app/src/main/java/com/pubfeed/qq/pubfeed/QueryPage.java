@@ -132,13 +132,25 @@ public class QueryPage extends Activity {
 
                         docInfo.dateCompleted=medlineCitationDate;
 
+                        Log.d("test","got to date completed");
+
                         //find the year and then add on date and month to fill out date published
 
-                        String medlineCitationPubDate=((Element) element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("Year").item(0).getTextContent();
-                        medlineCitationPubDate=medlineCitationPubDate+((Element) element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("Month").item(0).getTextContent();
-                        medlineCitationPubDate=medlineCitationPubDate+((Element) element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("Day").item(0).getTextContent();
+                        String medlineCitationPubDate="";
 
-                        docInfo.dateCompleted=medlineCitationPubDate;
+                        //flip through to format pub date since format varies
+
+                        for(int j=0;j<((Element)(element.getElementsByTagName("PubDate").item(0))).getElementsByTagName("*").getLength();j++){
+
+                            medlineCitationPubDate=medlineCitationPubDate+((Element)element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("*").item(j).getTextContent()+" ";
+                        }
+
+                        docInfo.datePublished=medlineCitationPubDate;
+
+                        Log.d("Test",medlineCitationPubDate);
+
+                        String journalOfIssue=((Element) element.getElementsByTagName("Journal").item(0)).getElementsByTagName("Title").item(0).getTextContent();
+                        Log.d("Test",journalOfIssue);
                     }
 
                 }
