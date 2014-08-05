@@ -145,12 +145,34 @@ public class QueryPage extends Activity {
                             medlineCitationPubDate=medlineCitationPubDate+((Element)element.getElementsByTagName("PubDate").item(0)).getElementsByTagName("*").item(j).getTextContent()+" ";
                         }
 
+                        Log.d("Test","got to published date");
+
                         docInfo.datePublished=medlineCitationPubDate;
+                        docInfo.journalIssue=((Element) element.getElementsByTagName("Journal").item(0)).getElementsByTagName("Title").item(0).getTextContent();
+                        docInfo.articleTitle=element.getElementsByTagName("ArticleTitle").item(0).getTextContent();
 
-                        Log.d("Test",medlineCitationPubDate);
+                        Log.d("Test","set up a lot of properties");
 
-                        String journalOfIssue=((Element) element.getElementsByTagName("Journal").item(0)).getElementsByTagName("Title").item(0).getTextContent();
-                        Log.d("Test",journalOfIssue);
+                        //find abstract and combine if there are multiple texts
+
+                        String medlineAbstract="";
+
+                        //make sure that there actually is an abstract
+
+                        Log.d("Test","about to test for abstract");
+
+                        try{
+                            Log.d("Test","about to try try");
+                            element.getElementsByTagName("Abstract");
+                            for(int j=0;j<((Element)(element.getElementsByTagName("Abstract").item(0))).getElementsByTagName("*").getLength();j++){
+                                medlineAbstract=medlineAbstract+((Element)element.getElementsByTagName("Abstract").item(0)).getElementsByTagName("AbstractText").item(j).getTextContent()+" ";
+                            }
+                            Log.d("Test","finished the try");
+                        }catch(NullPointerException e){
+                            Log.d("test","no abstract");
+                        }
+
+                        docInfo.abstractText=medlineAbstract;
                     }
 
                 }
